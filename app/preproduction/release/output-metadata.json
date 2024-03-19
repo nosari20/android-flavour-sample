@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.androidcompany.myapp.pp",
+  "variantName": "preproductionRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 5,
+      "versionName": "2.0-pp",
+      "outputFile": "app-preproduction-release.apk"
+    }
+  ],
+  "elementType": "File"
+}
